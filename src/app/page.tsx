@@ -5,7 +5,7 @@ const WelcomePage = () => {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', flexDirection: 'column' }}>
       <h1>Welcome to My Next.js App!</h1>
-      <p>This is a simple welcome page built with Next.js.</p>
+      <p>This is a simple welcome page built with Next.js. for devops project</p>
     </div>
   );
 };
